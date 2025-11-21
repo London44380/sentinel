@@ -4,6 +4,10 @@ Created and Updated November 2025
 
 # Sentinel
 
+![License](https://img.shields.io/badge/license-Proprietary-red)
+![Platform](https://img.shields.io/badge/platform-Android-brightgreen)
+![Language](https://img.shields.io/badge/language-Kotlin-blueviolet)
+
 **Sentinel** is a privacy-focused Android application that monitors and analyzes app behaviour locally on the device.  
 It helps users identify unusual or suspicious usage patterns without requiring root access or sending any data to external servers.
 
